@@ -1,29 +1,38 @@
 
   <h3 align="center">A HealthCare Management System</h3>
 
+## <a name="introduction">🤖 Introduction</a>
+
+A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using React.js.
+
 #### SignUp/Login Page
-![Signup/Login Page]([/public/assets/images/1.png)
+![Signup/Login Page](public/assets/images/1.png)
+
+#### 
 
 #### Home Page
 ![Transaction History Page](/public/assets/images/2.png)
 
+#### 
+
 #### Patient Verification Page
 ![Transfer Funds Page](/public/assets/images/3.png)
+
+#### 
 
 #### Personal Information Page
 ![Link Account Page](/public/assets/images/4.png)
 
+#### 
+
 #### Schedule an appointment Page
 ![Link Account Page](/public/assets/images/5.png)
+
+#### 
   
 </div>
 
 
-## <a name="introduction">🤖 Introduction</a>
-
-A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
