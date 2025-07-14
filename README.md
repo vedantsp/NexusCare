@@ -1,14 +1,20 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
-      <img src="" alt="Project Banner">
-    </a>
-  <br />
-
-
 
   <h3 align="center">A HealthCare Management System</h3>
 
+#### SignUp/Login Page
+![Signup/Login Page]([/public/assets/images/1.png))
+
+#### Home Page
+![Transaction History Page](/public/assets/images/2.png)
+
+#### Patient Verification Page
+![Transfer Funds Page](/public/assets/images/3.png)
+
+#### Personal Information Page
+![Link Account Page](/public/assets/images/4.png)
+
+#### Schedule an appointment Page
+![Link Account Page](/public/assets/images/5.png)
   
 </div>
 
