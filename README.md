@@ -2,7 +2,7 @@
   <h3 align="center">A HealthCare Management System</h3>
 
 #### SignUp/Login Page
-![Signup/Login Page]([/public/assets/images/1.png))
+![Signup/Login Page]([/public/assets/images/1.png)
 
 #### Home Page
 ![Transaction History Page](/public/assets/images/2.png)
